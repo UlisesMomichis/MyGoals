@@ -25,4 +25,5 @@ const styles = StyleSheet.create({
     goalText: {
         color:"white"
     }
+
 })
